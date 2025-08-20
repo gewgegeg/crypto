@@ -1,0 +1,18 @@
+{
+  "interval": 5.0,
+  "spread_bps": 0.0,
+  "min_qv": 100000.0,
+  "top_n": 20,
+  "deal": 100.0,
+  "include_withdraw": true,
+  "exchanges": {
+    "bingx": true,
+    "bitget": true,
+    "bitmart": true,
+    "bybit": true,
+    "gateio": true,
+    "htx": false,
+    "kucoin": true,
+    "mexc": true
+  }
+}
